@@ -1,0 +1,1 @@
+print("[!]config file load success")

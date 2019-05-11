@@ -14,5 +14,5 @@ burp被动扫描
 ![配置图片](https://github.com/HToTH/burpScan/blob/master/image.png)
 
 2. 在/conf/config.py里面配置敏感信息
-3. 在poc里面增加插件
+3. 在/poc里面增加插件
 4. python版本>=python3.0
